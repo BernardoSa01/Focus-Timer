@@ -4,7 +4,7 @@
 Programa promovido no nível 5 da trilha Explorer da Rocketseat para ensino de tecnologias WEB. 
 </p>
 
-- [Acesse o projeto finalizado, online](https://bernardosa01.github.io//)
+- [Acesse o projeto finalizado, online](https://bernardosa01.github.io/Focus-Timer/)
 <br><br>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
