@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora de IMC </h1>
+<h1 align="center"> Focus Timer </h1>
 
 <p align="center">
 Programa promovido no nível 5 da trilha Explorer da Rocketseat para ensino de tecnologias WEB. 
